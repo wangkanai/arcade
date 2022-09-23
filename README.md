@@ -20,10 +20,10 @@ Documentation, tutorials, and guides may be found in the [Start Here]() index.
 
 ## How to contribute
 
-* How to contribute to Arcade guide
-* Pull requests: Open/Closed
-* Issues
+* [How to contribute to Arcade guide](https://github.com/wangkanai/wangkanai/blob/main/CONTRIBUTING.md)
+* [Pull requests](https://github.com/wangkanai/arcade/pulls): [Open](https://github.com/wangkanai/arcade/pulls?q=is%3Aopen+is%3Apr)/[Closed](https://github.com/wangkanai/arcade/pulls?q=is%3Apr+is%3Aclosed)
+* [Issues](https://github.com/wangkanai/arcade/issues)
 
-License
+## License
 
-Wangkanai (including the Arcade repo) is licensed under the Apache-2 license.
+Wangkanai (including the Arcade repo) is licensed under the [Apache-2 license](https://github.com/wangkanai/arcade/blob/main/LICENSE).
