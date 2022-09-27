@@ -9,7 +9,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".solutions", ".solutions", 
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 		README.md = README.md
+		LICENSE = LICENSE
+		CODE_OF_CONDUCT.md = CODE_OF_CONDUCT.md
+		CONTRIBUTING.md = CONTRIBUTING.md
+		Directory.Build.props = Directory.Build.props
+		md-styles.css = md-styles.css
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wangkanai.DotNet.Build.Tasks.Packaging", "src\Wangkanai.DotNet.Build.Tasks.Packaging\Wangkanai.DotNet.Build.Tasks.Packaging.csproj", "{83DB89C3-DAAC-4D77-AF9B-EF9A11862F2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +31,9 @@ Global
 		{38449876-2004-47A3-9E28-70B9258A9154}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38449876-2004-47A3-9E28-70B9258A9154}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38449876-2004-47A3-9E28-70B9258A9154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83DB89C3-DAAC-4D77-AF9B-EF9A11862F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83DB89C3-DAAC-4D77-AF9B-EF9A11862F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83DB89C3-DAAC-4D77-AF9B-EF9A11862F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83DB89C3-DAAC-4D77-AF9B-EF9A11862F2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
