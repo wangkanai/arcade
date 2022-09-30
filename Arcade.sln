@@ -14,6 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".solutions", ".solutions", 
 		CONTRIBUTING.md = CONTRIBUTING.md
 		Directory.Build.props = Directory.Build.props
 		md-styles.css = md-styles.css
+		.gitattributes = .gitattributes
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wangkanai.DotNet.Build.Tasks.Packaging", "src\Wangkanai.DotNet.Build.Tasks.Packaging\Wangkanai.DotNet.Build.Tasks.Packaging.csproj", "{83DB89C3-DAAC-4D77-AF9B-EF9A11862F2B}"
